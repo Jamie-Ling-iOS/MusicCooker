@@ -1,1 +1,6 @@
-{"android":{"downloadUrl":"http://www.baidu.com","msg":"有新版本升级，系统优化","lastest_version":"1.0","forceUpdata_version":"1.0"},"success":"success","ios":{"downloadUrl":"http://www.baidu.com","msg":"有新版本升级，系统优化","lastest_version":"1.0","forceUpdata_version":"0.5"}}
+        {
+            "errCode":"0",
+            "msg":"成功",
+            "data":{
+                "appid":1,"platform":1,"version":1,"openshare":0,"appsetinfo":{"sLastestVersion":"1.0.0","sForceVersion":"0.0.9","sDownLoadUrl":"itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1313666440&onlyLatestVersion=true&pageNumber=0&sortOrdering=1&type=Purple+Software","sMsg":"有新版本：\n增加媒体类型、增加用户群修改功能\n修复小Bug","sIDCTestPinArray":"[\"test_pop_1\"]"}    }
+        }
