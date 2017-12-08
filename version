@@ -2,5 +2,5 @@
             "errCode":"0",
             "msg":"成功",
             "data":{
-                "appid":1,"platform":1,"version":1,"openShare":0,"appsetinfo":{"sLastestVersion":"1.0.0","sForceVersion":"0.0.9","sDownLoadUrl":"https://itunes.apple.com/cn/app/musiccooker/id1313666440?mt=8","sMsg":"有新版本：\n修复小Bug","sIDCTestPinArray":"[\"test_pop_1\"]"}    }
+                "appid":1,"platform":1,"version":1,"openShare":1,"appsetinfo":{"sLastestVersion":"1.0.0","sForceVersion":"0.0.9","sDownLoadUrl":"https://itunes.apple.com/cn/app/musiccooker/id1313666440?mt=8","sMsg":"有新版本：\n修复小Bug","sIDCTestPinArray":"[\"test_pop_1\"]"}    }
         }
